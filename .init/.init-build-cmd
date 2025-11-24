@@ -1,0 +1,4 @@
+{
+    "command": "dotnet build",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-notes-manager-45481-45490/notes_backend"
+}
